@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: AvReputationTracker
+## Author: LittleMolly
+## Version: 0.2
+
+##SavedVariables: g_avrt_History, g_avrt_IsDebugTracingEnabled
+##SavedVariablesPerCharacter: g_avrt_TrackingEnabled
+
+main.lua
