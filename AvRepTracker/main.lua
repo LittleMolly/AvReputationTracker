@@ -71,7 +71,7 @@ function T:stopRecording()
 		return;
 	end
 	if (not T.isRecording) then
-		print("Already stopped recording");
+		T:trace("Already stopped recording");
 		return;
 	end
 	T:printSummary();
