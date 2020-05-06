@@ -7,3 +7,4 @@
 ##SavedVariablesPerCharacter: g_avrt_TrackingEnabled
 
 main.lua
+restedxp.lua
