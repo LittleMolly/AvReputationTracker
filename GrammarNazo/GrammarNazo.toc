@@ -1,8 +1,0 @@
-## Interface: 11302
-## Title: GrammarNazo
-## Author: LittleMolly
-## Version: 0.1
-
-##SavedVariables: GrammarNazo_isEnabled
-
-GrammarNazo.lua
